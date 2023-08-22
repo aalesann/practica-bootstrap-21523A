@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mi-boton {
+    background-color: rgba(10, 199, 209, 0.933);
+    border: black;
+}
+
+.mi-boton:hover {
+    background-color: rgb(19, 68, 216);
+    border: black;
+}
